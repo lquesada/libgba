@@ -2,6 +2,7 @@ libgba
 ======
 
 libgba (A library to develop Game Boy Advance games).
+
 Copyright (c) 2008-2009, Jesús González - https://github.com/jesusatc
 
 In order to compile libgba:
